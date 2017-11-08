@@ -11,6 +11,7 @@ public class AcessSelenium {
 		driver = new ChromeDriver(); 
 		driver.manage().window().maximize();
 		driver.get("http://www.seleniumhq.org/");
+		hkjdahsdlkasldjlasjdl
 	}
 	
 }
